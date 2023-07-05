@@ -3,4 +3,7 @@ package core;
 public class Withdraw {
     //money balance
     //withdraw button
-    //amount fields
+    //amount fields\
+
+    //made updates to amount fields
+}
